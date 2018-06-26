@@ -1,2 +1,2 @@
 # TabCalculator-pyhon
-This a sample bar/restaurant tab calculartor
+This a simple bar/restaurant tab calculartor
